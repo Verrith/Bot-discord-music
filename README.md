@@ -53,6 +53,7 @@ vous pouvez changer le prefix des comande que pour le moment c un point d'exclam
 ex. `!play`<br><br>
 
 ## 3. les affichage diférent
+<br>
 ## 3,1. vue 1
 
 ## 3,2. vue 2
