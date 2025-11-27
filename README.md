@@ -4,7 +4,7 @@
 
 # le set up
 décomprésser ffmpeg et renomé le dossier ffmpeg et mettez le dans le C:\
-ça devrais recembler a ceci
+ça devrais recembler a ceci<br>
 <img src="images/Capture d’écran 2025-11-27 141219.png" alt="Texte alternatif" width="200"/>
 
 # Modifier les variables d’environnement système
