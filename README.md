@@ -7,7 +7,7 @@ décomprésser ffmpeg et renomé le dossier ffmpeg et mettez le dans le C:\
 ça devrais recembler a ceci C:\ffmpeg\ <br>
 <img src="images/Capture d’écran 2025-11-27 141219.png" alt="Texte alternatif" width="500"/>
 
-## 1.Modifier les variables d’environnement
+### 1.Modifier les variables d’environnement
 allez sur `Modifier les variables d’environnement système`<br>
 - avancer<br>
 - variable d'environnement<br>
@@ -15,7 +15,7 @@ allez sur `Modifier les variables d’environnement système`<br>
 - nouveau<br>
 - mettez ceci: `C:\ffmpeg\bin`
 
-## 2. Installation des programme sur python
+### 2. Installation des programme sur python
 allez sur cmd avec l'aide de la touche windows <br>
 
 `python -m pip install -U git+https://github.com/yt-dlp/yt-dlp.git` <br>
