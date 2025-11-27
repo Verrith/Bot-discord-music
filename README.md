@@ -53,10 +53,10 @@ vous pouvez changer le prefix des comande que pour le moment c un point d'exclam
 ex. `!play`<br><br>
 
 ## 3. les affichage diférent
-### 1. vue 1
+## 3,1. vue 1
 
-### 2. vue 2
-<h2>sur spotify</h2>
+## 3,2. vue 2
+<h3>sur spotify</h3>
 <img src="images/visuel2 spotify.png" alt="spotify" width="500"/>
 <h3>sur soundcloud</h3>
 <img src="images/visuel2 soundcloud.png" alt="soundcloud" width="500"/>
