@@ -22,7 +22,7 @@ allez sur cmd avec l'aide de la touche windows <br>
 `python -m pip install -U discord.py` <br>
 `pip install -U yt-dlp` <br>
 `pip install python-dotenv` <br>
-`pip install pynacl`
+`pip install pynacl` <br>
 `pip install discord.py yt-dlp spotipy python-dotenv` <br>
 `pip install mutagen` <br>
 `pip install pycryptodomex` <br>
