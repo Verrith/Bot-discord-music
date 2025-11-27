@@ -9,7 +9,7 @@ récupérer votre token ici
 - Reset Token <br>
 - copier Token
 <br>
-créer votre application sur [spotify dev](https://developer.spotify.com/dashboard)<br>
+créer votre application sur <a href="https://developer.spotify.com/dashboard/create">spotify dev</a><br>
 
 
 # 3- le set up
