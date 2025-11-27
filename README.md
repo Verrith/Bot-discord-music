@@ -54,7 +54,7 @@ ex. `!play`<br><br>
 
 ## 3. les affichage diférent
 <br>
-## 3,1. vue 1
+<h2>3,1. vue 1</h2>
 
 ## 3,2. vue 2
 <h3>sur spotify</h3>
