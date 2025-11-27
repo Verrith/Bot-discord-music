@@ -55,6 +55,12 @@ ex. `!play`<br><br>
 ## 3. les affichage diférent
 <br>
 <h2>3,1. vue 1</h2>
+<h3>sur spotify</h3>
+<img src="images/visuel1 spotify.png" alt="spotify" width="500"/>
+<h3>sur soundcloud</h3>
+<img src="images/visuel1 soundcloud.png" alt="soundcloud" width="500"/>
+<h3>youtube</h3>
+<img src="images/visuel1 youtube.png" alt="youtube" width="500"/>
 
 ## 3,2. vue 2
 <h3>sur spotify</h3>
@@ -63,3 +69,5 @@ ex. `!play`<br><br>
 <img src="images/visuel2 soundcloud.png" alt="soundcloud" width="500"/>
 <h3>youtube</h3>
 <img src="images/visuel2 youtube.png" alt="youtube" width="500"/>
+
+<h2 style="color: red;">ATTENTION</h2>

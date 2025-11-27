@@ -1,19 +1,3 @@
-# py -3.12 lancer.py
-
-# installation
-# ffmpeg c:/ffmpeg
-# Modifier les variables d’environnement système
-# avancer - variable d'environnement - path / modifier - nouveau - c:/ffmpeg/bin
-# python -m pip install -U git+https://github.com/yt-dlp/yt-dlp.git
-# python -m pip install -U discord.py
-# pip install -U yt-dlp
-# pip install python-dotenv
-# pip install pynacl
-# pip install discord.py yt-dlp spotipy python-dotenv
-# pip install mutagen
-# pip install pycryptodomex
-# pip install spotipy
-
 import os
 import discord
 from discord.ext import commands
