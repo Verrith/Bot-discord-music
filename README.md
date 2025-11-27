@@ -50,7 +50,8 @@ c'est pour que ton bot prennent les `/play` et autre.<br><br>
 
 ## 2. les autre qui on pas le nom slash
 vous pouvez changer le prefix des comande que pour le moment c un point d'exclamation.<br>
-ex. `!play`<br><br>
+ex. `!play`<br>
+pour changer le préfix c'est sur la ligne `33` et `379`<br>
 
 ## 3. les affichage diférent
 <br>
