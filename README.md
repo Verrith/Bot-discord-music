@@ -70,4 +70,8 @@ ex. `!play`<br><br>
 <h3>youtube</h3>
 <img src="images/visuel2 youtube.png" alt="youtube" width="500"/>
 
-<h2 style="color: red;">ATTENTION</h2>
+## 4. lancement du code
+ouvrez le fichier .py avec python et enjoys.
+
+<h2>ATTENTION</h2>
+le cmd du bot doit rester ouvert aussi non le bot ne marche plus
