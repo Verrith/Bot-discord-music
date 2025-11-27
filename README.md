@@ -56,7 +56,7 @@ ex. `!play`<br><br>
 ### 1. vue 1
 
 ### 2. vue 2
-<h2>sur spotify</h2>
+<h2 style="texte-text-align: center;">sur spotify</h2>
 <img src="images/visuel2 spotify.png" alt="spotify" width="500"/>
 <h2>sur soundcloud</h2>
 <img src="images/visuel2 soundcloud.png" alt="soundcloud" width="500"/>
