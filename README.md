@@ -5,7 +5,7 @@
 # le set up
 décomprésser ffmpeg et renomé le dossier ffmpeg et mettez le dans le C:\
 ça devrais recembler a ceci
-![Texte alternatif](image_exemple/Capture d’écran 2025-11-27 141219.png)
+<img src="images/mon_image.png" alt="Texte alternatif" width="200"/>
 
 # Modifier les variables d’environnement système
 # avancer - variable d'environnement - path / modifier - nouveau - c:/ffmpeg/bin
