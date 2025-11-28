@@ -60,7 +60,7 @@ pour changer le préfix c'est sur la ligne `33` et `379`<br>
 <img src="images/visuel1 spotify.png" alt="spotify" width="500"/>
 <h3>sur soundcloud</h3>
 <img src="images/visuel1 soundcloud.png" alt="soundcloud" width="500"/>
-<h3>youtube</h3>
+<h3>sur youtube</h3>
 <img src="images/visuel1 youtube.png" alt="youtube" width="500"/>
 
 ## 3,2. vue 2
@@ -68,11 +68,11 @@ pour changer le préfix c'est sur la ligne `33` et `379`<br>
 <img src="images/visuel2 spotify.png" alt="spotify" width="500"/>
 <h3>sur soundcloud</h3>
 <img src="images/visuel2 soundcloud.png" alt="soundcloud" width="500"/>
-<h3>youtube</h3>
+<h3>sur youtube</h3>
 <img src="images/visuel2 youtube.png" alt="youtube" width="500"/>
 
 ## 4. lancement du code
 ouvrez le fichier .py avec python et enjoys.
 
-<h2>ATTENTION</h2>
+<h1>ATTENTION</h1>
 le cmd du bot doit rester ouvert aussi non le bot ne marche plus
