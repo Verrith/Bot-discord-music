@@ -34,13 +34,16 @@ allez sur cmd avec l'aide de la touche windows <br><br>
 
 `python -m pip install -U git+https://github.com/yt-dlp/yt-dlp.git` <br>
 `python -m pip install -U discord.py` <br>
-`pip install -U yt-dlp` <br>
-`pip install python-dotenv` <br>
-`pip install pynacl` <br>
-`pip install discord.py yt-dlp spotipy python-dotenv` <br>
-`pip install mutagen` <br>
-`pip install pycryptodomex` <br>
-`pip install spotipy`
+```pip install discord.py
+pip install python-dotenv
+pip install requests
+pip install yt-dlp
+pip install spotipy
+pip install deezer-python
+pip install discord.py[voice]
+pip install pynacl```
+`pip install mutagen`
+`pip install pycryptodomex`
 
 # 4- lancement du bot
 quand vous avez tout fait coisisez un code entre les 4 <br><br>
