@@ -32,18 +32,18 @@ allez sur `Modifier les variables d’environnement système`<br>
 ### 2. Installation des programme sur python
 allez sur cmd avec l'aide de la touche windows <br><br>
 
-`python -m pip install -U git+https://github.com/yt-dlp/yt-dlp.git` <br>
-`python -m pip install -U discord.py` <br>
-```pip install discord.py
+```python -m pip install -U git+https://github.com/yt-dlp/yt-dlp.git
+python -m pip install -U discord.py
+pip install discord.py
 pip install python-dotenv
 pip install requests
 pip install yt-dlp
 pip install spotipy
 pip install deezer-python
 pip install discord.py[voice]
-pip install pynacl```
-`pip install mutagen`
-`pip install pycryptodomex`
+pip install pynacl
+pip install mutagen
+pip install pycryptodomex```
 
 # 4- lancement du bot
 quand vous avez tout fait coisisez un code entre les 4 <br><br>
