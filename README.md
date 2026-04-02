@@ -8,7 +8,8 @@ récupérer votre token ici
 - BOT <br>
 - Reset Token <br>
 - copier Token <br>
-- collez votre token sur le `.env` <br>
+- collez votre token sur le `.env` <br><br>
+<b>Ne marche plus sans le spotify prenium</b>
 créer votre application sur <a href="https://developer.spotify.com/dashboard/create">spotify dev</a><br>
 - en Redirect URIs mettez ceci: `https://example.com/callback` <br><br>
 
