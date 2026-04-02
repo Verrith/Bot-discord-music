@@ -81,4 +81,4 @@ pour changer le préfix c'est sur la ligne `33` et `379`<br>
 ouvrez le fichier .py avec python et enjoys.
 
 <h1>ATTENTION</h1>
-le cmd du bot doit rester ouvert aussi non le bot ne marche plus
+<b style="color: red;">le cmd du bot doit rester ouvert aussi non le bot ne marche plus</b>
