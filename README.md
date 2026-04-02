@@ -19,7 +19,7 @@ récupérer le Client ID et Client secret sur vottre application <br>
 
 # 3- le set up
 décomprésser ffmpeg et renomé le dossier ffmpeg et mettez le dans le C:\
-ça devrais recembler a ceci `C:\ffmpeg\` <br>
+ça devrais recembler a ceci: `C:\ffmpeg\` <br>
 <img src="images/Capture d’écran 2025-11-27 141219.png" alt="image d'exemple" width="500"/>
 
 ### 1.Modifier les variables d’environnement
