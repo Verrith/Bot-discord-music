@@ -45,6 +45,7 @@ pip install discord.py[voice]
 pip install pynacl
 pip install mutagen
 pip install pycryptodomex
+pip install Pillow requests
 ```
 
 # 4- lancement du bot
