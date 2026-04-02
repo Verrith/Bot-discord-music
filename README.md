@@ -31,7 +31,7 @@ allez sur `Modifier les variables d’environnement système`<br>
 - mettez ceci: `C:\ffmpeg\bin`
 
 ### 2. Installation des programme sur python
-allez sur cmd avec l'aide de la touche windows <br><br>
+allez sur `cmd` avec l'aide de la touche windows <br><br>
 
 ```
 python -m pip install -U git+https://github.com/yt-dlp/yt-dlp.git
