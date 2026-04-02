@@ -78,7 +78,7 @@ pour changer le préfix c'est sur la ligne `33` et `379`<br>
 <img src="images/visuel2 youtube.png" alt="youtube" width="500"/>
 
 ## 4. lancement du code
-ouvrez le fichier .py avec python et enjoys.
+ouvrez le fichier .py avec python et enjoys.<br>
 
 <h1>ATTENTION</h1>
-<b style="color: red;">le cmd du bot doit rester ouvert aussi non le bot ne marche plus</b>
+le cmd du bot doit rester ouvert aussi non le bot ne marche plus
